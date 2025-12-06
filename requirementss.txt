@@ -1,9 +1,10 @@
 streamlit
+
 sympy
 numpy
 pandas
-
 matplotlib
 git add .
 git commit -m "Prepare Streamlit app with requirements"
 git push origin main
+
